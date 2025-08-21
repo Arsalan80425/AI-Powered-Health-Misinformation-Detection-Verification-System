@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files & indexes
+*.pkl
+*.index
+
+# Databases
+*.db
+
+# Environment
+.env
+venv/
+ds.py
+.vscode

@@ -123,6 +123,15 @@ The app includes a **built-in analytics dashboard** that provides:
 This system is **for educational and research purposes only**.  
 Always consult **qualified healthcare professionals** for actual medical advice.  
 
+
+---
+
+### Contact Information
+- **Developer**: Mohammed Arsalan
+- **Email**: arsalanshaikh0408@gmail.com
+- **LinkedIn**: [[LinkedIn Profile](http://www.linkedin.com/in/mohammed-arsalan-58543a305)]
+- **Project**: Advanced Medical Fact-Checking System (DataLEADS FirstCheck Initiative)
+
 ---
 
 ## 👨‍💻 Author  

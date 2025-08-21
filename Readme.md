@@ -9,6 +9,16 @@ The system is aligned with **DataLEADS FirstCheck Initiative**, aiming to combat
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview 1](https://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review1.png)
+![Dashboard Preview 2](https://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review2.png)
+![Dashboard Preview 3](http://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review3.png)
+![Dashboard Preview 4](http://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review3.png)
+![Dashboard Preview 5](http://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review3.png)
+
+---
+
 ## 🚀 Features  
 ✅ **AI-Powered Claim Verification**  
 - BioBERT & SciBERT for classification  
@@ -35,8 +45,8 @@ The system is aligned with **DataLEADS FirstCheck Initiative**, aiming to combat
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/health-misinfo-detector.git
-cd health-misinfo-detector
+git clone https://github.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System.git
+cd AI-Powered-Health-Misinformation-Detection-Verification-System
 ```
 
 2. **Create and activate virtual environment**  

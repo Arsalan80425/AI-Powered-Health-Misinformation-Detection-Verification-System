@@ -11,11 +11,11 @@ The system is aligned with **DataLEADS FirstCheck Initiative**, aiming to combat
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview 1](https://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review1.png)
-![Dashboard Preview 2](https://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review2.png)
-![Dashboard Preview 3](http://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review3.png)
-![Dashboard Preview 4](http://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review3.png)
-![Dashboard Preview 5](http://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review3.png)
+![Dashboard Preview 1](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview1.png)
+![Dashboard Preview 2](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview2.png)
+![Dashboard Preview 3](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview3.png)
+![Dashboard Preview 4](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview4.png)
+![Dashboard Preview 5](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview5.png)
 
 ---
 

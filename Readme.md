@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 *(Make sure you have Python 3.9+ installed)*  
 
-## Alternate Option
+## Alternatively
 Visit the live demo at : https://arsalan80425-ai-powered-health-misinformation-detec-main-obq7u1.streamlit.app
 
 ---

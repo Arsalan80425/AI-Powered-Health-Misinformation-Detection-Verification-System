@@ -5,3 +5,4 @@ sentencepiece
 scikit-learn
 pandas
 numpy
+sentence-transformers
